@@ -3,7 +3,7 @@ let filmes = [
 
     {
     titulo: "Interestellar",
-    imagem: "Imagens/Interstellar_Filme.png",
+    imagem: "Interstellar_Filme.png",
     descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
     }
     
@@ -14,7 +14,7 @@ let filmes = [
     
     {
     titulo: "Stranger Things",
-    imagem: "Imagens/Strangerthings_serie.jpg",
+    imagem: "Strangerthings_serie.jpg",
     descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
     }
 

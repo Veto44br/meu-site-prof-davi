@@ -1,8 +1,11 @@
-body{
+body {
     font-family: Arial;
-    background: linear-gradient(to right,#b7b7b7,#000000);
-    color:white;
-    text-align:center;
+    background-image: url('bgnetflix.png'); /* bgnetflix */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
 }
 
 h1{
