@@ -8,28 +8,28 @@ export const filmes = [
     },
     {
         titulo: "Batman",
-        imagem: "Imagens/The_Dark_Knight.jpg",
-        descricao: "Em Batman: O Cavaleiro das Trevas, a paz é ameaçada pelo Coringa, um anarquista que instaura o caos."
+        imagem: "Imagens/batman.jpg",
+        descricao: "O herói de Gotham enfrenta novos desafios."
     },
     {
-        titulo: "Ong Bak",
-        imagem: "Imagens/Ongbak.jpg",
-        descricao: "Ong-Bak: Guerreiro Sagrado, acompanha Ting (Tony Jaa), um jovem guerreiro de uma pacata vila tailandesa."
+        titulo: "Godzilla 2: Rei dos Monstros",
+        imagem: "Imagens/godzilla2.jpg",
+        descricao: "O rei encontra uma nova ameaça em seu reino."
     },
     {
-        titulo: "Kung-Fusão",
-        imagem: "Imagens/kungfusao.webp",
-        descricao: "A história acompanha Sing, um malandro trapalhão que tenta entrar para a temida Gangue do Machado."
+        titulo: "Shin Godzilla",
+        imagem: "Imagens/shingodzilla.jpg",
+        descricao: "A humanidade se depara com a encarnação da destruição."
     },
     {
-        titulo: "Homem Aranha",
-        imagem: "Imagens/Spiderman.jpg",
-        descricao: "O jovem Peter Parker que, após ser picado por uma aranha, ganha superpoderes como força, agilidade e a capacidade de escalar paredes."
+        titulo: "Michael",
+        imagem: "Imagens/michael.jpg",
+        descricao: "A história do grande rei do pop Michael Jackson."
     },
     {
-        titulo: "Capitão América: Guerra Civil",
-        imagem: "Imagens/Vingadores.webp",
-        descricao: "Após danos colaterais em missões dos Vingadores, a ONU propõe o Tratado de Sokovia, um acordo para regulamentar e controlar a equipe."
+        titulo: "Homem-Aranha: Um Novo Dia",
+        imagem: "Imagens/homemaranha.jpg",
+        descricao: "O grande herói enfrenta novas ameaças e encara as mudanças na sua vida."
     }
 ];
 
@@ -41,27 +41,27 @@ export const series = [
     },
     {
         titulo: "Dark",
-        imagem: "Imagens/Dark_(série).jpg",
-        descricao: "Dark é uma série focada em viagens no tempo e multiversos."
+        imagem: "Imagens/dark.jpg",
+        descricao: "Mistérios envolvendo viagens no tempo."
+    },
+    {
+        titulo: "Cobra Kai",
+        imagem: "Imagens/cobrakai.jpg",
+        descricao: "Um ex-campão degenerado de karatê decide começar sua redenção em vida e ensina karatê para uma nova geração."
     },
     {
         titulo: "Breaking Bad",
-        imagem: "Imagens/Breakingbad.jpg",
-        descricao: " A série acompanha Walter White e a sua transformação de um homem comum no chefão do tráfico."
+        imagem: "Imagens/breakingbad.jpg",
+        descricao: "Um professor de química com câncer pulmonar decide viver do contrabando de drogas para ganhar dinheiro."
     },
     {
-        titulo: "Peaky Blinders",
-        imagem: "Imagens/Peakyblinders.jpg",
-        descricao: "Peaky Blinders acompanha Thomas Shelby e sua gangue em Birmingham após a Primeira Guerra Mundial."
+        titulo: "Bleach",
+        imagem: "Imagens/bleach.jpg",
+        descricao: "Um adolescente que consegue ver espiritos se torna um ceifador de almas e luta contra vários inimigos que querem destruir o mundo."
     },
     {
-        titulo: "Round 6",
-        imagem: "Imagens/Round6.jpg",
-        descricao: "Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Onde um prêmio milionário aguarda."
-    },
-    {
-        titulo: "Avatar A lenda de Aang",
-        imagem: "Imagens/avataraang.jpg",
-        descricao: "Avatar: A Lenda de Aang acompanha Aang, um menino de 12 anos que acorda após cem anos congelado em um iceberg."
+        titulo: "Neon Genesis Evangelion",
+        imagem: "Imagens/nge.jpg",
+        descricao: "Shinji Ikari decide ir visitar seu pai e luta contra anjos para impedir o Terceiro Impacto."
     }
 ];
